@@ -14,7 +14,7 @@ For instance;
 
 
 
-![functions](https://github.com/ozgekaral/Python-Hands-On-Lectures-Beginner/blob/main/----.webp)
+![functions](https://github.com/ozgekaral/Pandas_beginner-lecture/blob/main/Pandas-Tutorial-copy-2.png)
 
 
 
