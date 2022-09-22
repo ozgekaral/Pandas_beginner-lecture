@@ -17,4 +17,7 @@ For instance;
 ![functions](https://github.com/ozgekaral/Pandas_beginner-lecture/blob/main/Pandas-Tutorial-copy-2.png)
 
 
+Please,give me feedback to makes me happy and or ıf find the mistake.You realize.
+
+
 
