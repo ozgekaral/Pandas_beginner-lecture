@@ -1,4 +1,4 @@
-# Numpy Hands-On Lectures For Beginners
+# Pandas Hands-On Lectures For Beginners
 ## Including lots of hands-on knowledge about Pandas.
 For instance;
 * What is Pandas in Python
