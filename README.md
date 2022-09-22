@@ -14,3 +14,7 @@ For instance;
 
 
 
+![functions](https://github.com/ozgekaral/Python-Hands-On-Lectures-Beginner/blob/main/----.webp)
+
+
+
